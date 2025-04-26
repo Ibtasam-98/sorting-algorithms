@@ -1,3 +1,4 @@
+
 import time
 import random
 import matplotlib.pyplot as plt
@@ -32,4 +33,3 @@ if __name__ == "__main__":
                                   interval=100,repeat=False)
     plt.show()
     print(f"Sorted: {data}")
-
