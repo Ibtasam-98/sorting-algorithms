@@ -23,7 +23,6 @@ def insertion_sort_visualized(data):
         ax2.set_title('Partially Sorted')
         plt.pause(0.1)
 
-    print("Unsorted:", data)
     for i in range(1, n):
         key = data[i]
         j = i - 1
@@ -34,7 +33,6 @@ def insertion_sort_visualized(data):
             update(list(data), i, j + 1)
         data[j + 1] = key
         update(list(data), i + 1, -2)
-    print("Sorted:", data)
     plt.show()
 
 if __name__ == "__main__":
