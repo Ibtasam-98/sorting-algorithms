@@ -2,21 +2,27 @@
 
 This repository contains implementations of various sorting algorithms. It serves as resource for tutorials and educational content focused on understanding and implementing fundamental algorithms. As new tutorials are created, this repository will be updated with corresponding code examples.
 
-## Algorithms Implemented (Currently)
+ented Algorithms
 
-* **Bubble Sort:** A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
-* **Insertion Sort:** A sorting algorithm that builds the final sorted array one item at a time by repeatedly inserting a value into the sorted part of the list.
-* **Merge Sort:** An efficient, general-purpose, comparison-based sorting algorithm. It divides the array into halves, recursively sorts them, and then merges the sorted halves.
+### **Comparison Sorts**
+|===============================================================================|
+| Algorithm      |   Best Case   | Average Case  | Worst Case   | Visualization 
+|================|===============|===============|==============|===============|
+| Bubble Sort    |   O(n)        | O(n²)         | O(n²)        |   ✅          |         
+| Insertion Sort |   O(n)        | O(n²)         | O(n²)        |   ✅          |
+| Selection Sort |   O(n²)       | O(n²)         | O(n²)        |   ✅          |
+| Merge Sort     |   O(n log n)  | O(n log n)    | O(n log n)   |   ✅          |
+| Quick Sort     |   O(n log n)  | O(n log n)    | O(n²)        |   ✅          |
+|===============================================================================|
 
 ## Coming Soon
 
 Expect implementations of the following sorting algorithms to be added as new tutorials are released:
 
-* Insertion Sort
-* Selection Sort
-* Merge Sort
-* Quick Sort
-* And more!
+* Heap Sort
+* Radix Sort
+* Bucket Sort
+* Counting Sort
 
 ## Contribution
 
