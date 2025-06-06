@@ -22,7 +22,6 @@ ented Algorithms
 
 Expect implementations of the following sorting algorithms to be added as new tutorials are released:
 
-* Radix Sort
 * Bucket Sort
 * Counting Sort
 
