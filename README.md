@@ -12,6 +12,10 @@ ented Algorithms
 * **Quick Sort:** An efficient divide-and-conquer sorting algorithm. It picks an element as a pivot and partitions the array around the pivot.
 * **Selection Sort:** A simple sorting algorithm that repeatedly finds the minimum element from the unsorted part and puts it at the beginning.
 * **Heap Sort**: An efficient, comparison-based sorting algorithm that uses a binary heap data structure. It builds a heap from the input data and then repeatedly extracts the largest (or smallest) element to build the sorted array.
+* **Radix Sort:** A non-comparative integer sorting algorithm that sorts data with integer keys by grouping keys by individual digits which share the same significant position and value.
+* **Shell Sort:** An in-place comparison sort that can be seen as either a generalization of insertion sort or a diminishing increment sort.
+
+
 
 
 ## Coming Soon
