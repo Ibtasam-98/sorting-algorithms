@@ -29,6 +29,3 @@ Expect implementations of the following sorting algorithms to be added as new tu
 
 While this repository primarily serves as a resource for learning, contributions and suggestions are welcome! If you find any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
 
-## Stay Updated
-
-Keep an eye on this repository for new algorithm implementations and updates as more tutorials become available!
