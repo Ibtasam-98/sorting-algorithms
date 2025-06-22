@@ -16,15 +16,6 @@ ented Algorithms
 * **Shell Sort:** An in-place comparison sort that can be seen as either a generalization of insertion sort or a diminishing increment sort.
 
 
-
-
-## Coming Soon
-
-Expect implementations of the following sorting algorithms to be added as new tutorials are released:
-
-* Bucket Sort
-* Counting Sort
-
 ## Contribution
 
 While this repository primarily serves as a resource for learning, contributions and suggestions are welcome! If you find any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
